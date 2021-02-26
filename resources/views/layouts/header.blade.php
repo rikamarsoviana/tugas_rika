@@ -67,7 +67,7 @@
           <a href="tm">Teknik Mesin</a>
           <a href="#">Teknik Sipil</a>
           <a href="#">Teknik Elektro</a>
-          <a href="#">Teknik Komputer</a>
+          
         </div>
       </div>
     </ul>
